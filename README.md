@@ -105,7 +105,7 @@ Based on the analysis, here are **key actionable recommendations** to improve bu
 ## **📧 Connect with Me**  
 If you want to explore the project or have questions, feel free to connect with me:  
 
-📧 **Email:** anchal96200163@gmail.com 
+📧 **Email:** vaibhavkrishnabajpai@gmail.com 
 💼 **LinkedIn:** https://www.linkedin.com/in/vaibhav-bajpai-52b557118/
 👨‍💻 **GitHub:** https://github.com/vaibhav995673
 
